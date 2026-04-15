@@ -1,3 +1,39 @@
+## About This Repository (Clinical Use Context)
+
+This repository is being adapted and extended to explore practical applications of AI in pharmacovigilance and drug safety.
+
+I am a pharmaceutical medicine physician with over 24 years of experience in pharmacovigilance, risk management, and patient safety. Through this work, I am using this repository as a foundation to build structured, clinically relevant tools that support adverse event data capture, analysis, and reporting.
+
+## Intent
+
+The primary intent of this repository is to:
+
+- Develop structured approaches to adverse event reporting  
+- Improve completeness and clarity of safety data capture  
+- Explore AI assisted workflows in pharmacovigilance  
+- Bridge clinical safety expertise with practical AI implementation  
+
+## Use Case
+
+This work is focused on real world pharmacovigilance needs, including:
+
+- Adverse event case intake and structuring  
+- Supporting Individual Case Safety Report (ICSR) workflows  
+- Improving data quality for downstream safety evaluation  
+- Enabling more meaningful signal detection and risk assessment  
+
+## Current Direction
+
+This repository is in an early stage and will evolve to include:
+
+- Structured data models for adverse event reporting  
+- Prototype tools for guided case entry  
+- AI assisted summarisation and classification of safety data  
+- Clinician oriented interfaces for usability  
+
+## Note
+
+This is an active working repository intended to support ongoing development in drug safety and patient risk identification.
 # Karpathy-Inspired Claude Code Guidelines
 
 > **Looking for a managed agents platform?** Check out [Multica](https://github.com/multica-ai/multica) — an open-source platform for running and managing coding agents with reusable skills.
